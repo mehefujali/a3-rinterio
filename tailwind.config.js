@@ -6,6 +6,10 @@ module.exports = {
             colors: {
                 'rintero-primary-color': '#ABEF5F'
             }
+            ,
+            backgroundImage: {
+                'paper-bg': " url('./assets/bg.jpg')"
+            }
         },
     },
     plugins: [],
